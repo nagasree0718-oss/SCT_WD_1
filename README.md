@@ -10,6 +10,7 @@ AI Learning Hub is a modern and responsive landing page developed as part of the
 
 The primary objective of this task was to create an interactive navigation menu that remains fixed across all pages and changes its appearance when users scroll or interact with menu items. The website combines modern design principles with responsive layouts to deliver a seamless browsing experience across different devices.
 
+#live demo url : https://nagasree0718-oss.github.io/SCT_WD_1/
 ## Features
 
 * Fixed Interactive Navigation Menu
